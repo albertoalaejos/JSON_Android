@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Funda Test</string>
+    <string name="menu_settings">Settings</string>
+    <string name="namelabel">"Makelaar : "</string>
+    <string name="salelabel">"For sale : "</string>
+    <string name="pricelabel">"Price : "</string>
+
+</resources>
